@@ -141,7 +141,7 @@ However. the primary limitation is the lack of time-series data, which prevents 
 
 ## **References** 
 
--	Bike Sales Dataset [(Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+-	Bike Sales Dataset [(Kaggle)](https://github.com/David-TheAnalyst/BAJAJ-Bike-Sales-Analysis/blob/main/Bike%20Sales%20Raw%20Data.csv)
 -	Microsoft Excel (Analytical Tool)
 
 
