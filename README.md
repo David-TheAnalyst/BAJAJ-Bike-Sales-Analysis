@@ -1,7 +1,12 @@
 # **BAJAJ BIKE SALES ANALYSIS** 
 
+<div align="center">
+  <img src="https://github.com/David-TheAnalyst/BAJAJ-Bike-Sales-Analysis/blob/main/Bajaj%20Showroom.png" alt="Flowpal Sales Dashboard Additional View" width="1000" height="600">
+</div>
+
 
 ## **Introduction:**
+
 
 The core objective of this project is to conduct a detailed customer segmentation analysis to identify the true factors influencing a bike purchase. By isolating the specific demographic, socioeconomic, and lifestyle attributes that correlate most strongly with the 'Purchase Bike' outcome, the analysis aims to transition the sales and marketing strategy from generalized campaigns to Precision, high-ROI targeting.
 
@@ -66,7 +71,11 @@ Key Findings:
 ## **Data Visualizations & Charts:**
 
 Below is high-level yet drillable interactive dashboard, accessible to all stakeholders,
- 
+
+ <div align="center">
+  <img src="https://github.com/David-TheAnalyst/BAJAJ-Bike-Sales-Analysis/blob/main/BAJAJ%20Sales%20DB.png" alt="Flowpal Sales Dashboard Additional View" width="1300" height="auto">
+</div>
+
 
 Slicers: Gender, Marital Status, Age Group, Education Level, Occupation
 
@@ -77,9 +86,8 @@ Slicers: Gender, Marital Status, Age Group, Education Level, Occupation
 - Dominant Age Group: Middle Age
 - Top Education Buyers: Bachelors degree holder
 
-## **Recommendations and Observations**
 
-### **Observation:**
+## **Observation:**
 
 1. People with a Bachelor's and Partial college education, and those in the $40,000-$69,999 income bracket are the most likely buyers of bikes.
 
@@ -103,6 +111,7 @@ Slicers: Gender, Marital Status, Age Group, Education Level, Occupation
 
 11. While professionals are our top buyers, management workers show different behaviors. They are typically high-income earners with multiple cars (1-3), suggesting their purchasing decisions are likely influenced by a preference for convenience and lifestyle, which may not align with our current product offerings.
 
+
 ## **Specific Recommendations:**
 
 1. Shift promotions to customers with a Bachelor's/Partial College education and those earning $40,000−$69,999, as they are the most frequent, high-volume buyers.
@@ -122,6 +131,7 @@ Slicers: Gender, Marital Status, Age Group, Education Level, Occupation
 This project successfully demonstrates that the purchasing decision for Bajaj Bikes is not simply a function of wealth, but a sophisticated intersection of specific demographic, educational, and lifestyle factors. 
 However. the primary limitation is the lack of time-series data, which prevents an analysis of how customer profiles or regional market shares have changed year-over-year. 
 
+
 ## **Future Research:**
 
 1.	Conduct a specific analysis to profile and understand the motivations of the Management worker segment to develop product or messaging concepts (prestige, high-end accessories) that appeal to their unique purchasing drivers.
@@ -131,6 +141,17 @@ However. the primary limitation is the lack of time-series data, which prevents 
 
 ## **References** 
 
--	Bike Sales Dataset (Kaggle)
--	
+-	Bike Sales Dataset [(Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 -	Microsoft Excel (Analytical Tool)
+
+
+<h3 align="left">Connect with me on Socials:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/david ojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david ojo" height="30" width="40" /></a>
+<a href="https://twitter.com/david_ojo_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="david_ojo_1" height="30" width="40" /></a>
+<a href="https://medium.com/@davidojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidojo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/davidojo-j3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davidojo-j3v" height="30" width="40" /></a>
+</p>
+
+Thanks for stopping by!
+
